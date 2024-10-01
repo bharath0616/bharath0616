@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharath0616" alt="bharath0616" /></a> </p>
 
+- 📫 How to reach me **mbharath1603@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pMSd23jbkjz-0ZtB2tnNc6Q2kIMZdMqa/view](https://drive.google.com/file/d/1pMSd23jbkjz-0ZtB2tnNc6Q2kIMZdMqa/view)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bharath-mudduluru-a6a331139?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bharath-mudduluru-a6a331139?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
